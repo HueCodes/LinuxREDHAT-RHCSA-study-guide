@@ -32,6 +32,6 @@ This repository contains my personal notes, cheat sheets, and practice commands 
 - `/practice/`: Sample labs and Ansible playbooks for automation practice.
 - `install_guide.md`: How to set up your study environment.
 
-Feel free to fork, contribute, or open issues with questions. Good luck—you got this! 🚀
+Feel free to fork, contribute, or open issues with questions. 
 
 **Disclaimer**: This is not official Red Hat material. Always verify with official docs for the latest exam objectives.
